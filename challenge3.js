@@ -4,6 +4,7 @@
 //string as an argument and return the same string with every 
 //instance of the letter <strong>s</strong> removed.
 
+//Overall Goal
 //Create a string that has an s in it.
 // Create a method or fuction that takes in the string, and removes s.
 // The argument is the s, and the paramater is the string.
